@@ -1,0 +1,3 @@
+C:/MINE/codes/Uni/PROJECT_BP_AA/cmake-build-debug/CMakeFiles/PROJECT_BP_AA.dir
+C:/MINE/codes/Uni/PROJECT_BP_AA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/MINE/codes/Uni/PROJECT_BP_AA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
